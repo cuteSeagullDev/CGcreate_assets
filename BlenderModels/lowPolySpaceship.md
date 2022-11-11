@@ -1,3 +1,0 @@
-# a low poly spacecraft
-
-![]()
