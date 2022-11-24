@@ -1,1 +1,2 @@
-#CUSTOM BOOMBOX. ALL TEXTURES ARE CUSTOM AND AVAILABLE.  CASSETTE TAPE IS CC0 AND ORIGINALLY FROM POLYHAVEN.COM. 
+#CUSTOM BOOMBOX. ALL TEXTURES ARE CUSTOM AND AVAILABLE.  
+I was unable to upload the Blender file here becasue its above 25 MB. I can separate out some of the parts so you can append them together, but for now, just the glb.
