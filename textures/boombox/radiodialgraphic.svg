@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500mm"
+   height="297mm"
+   viewBox="0 0 1500 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="radiodialgraphic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="radiodialgraphic.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.24182917"
+     inkscape:cx="2863.5917"
+     inkscape:cy="1261.2209"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="1604.1025"
+       y="124.91529"
+       width="4184.6715"
+       height="206.72736"
+       id="rect3339" />
+    <rect
+       x="5162.6746"
+       y="777.93895"
+       width="455.58458"
+       height="240.70867"
+       id="rect3325" />
+    <rect
+       x="5171.5415"
+       y="115.49192"
+       width="441.03896"
+       height="305.3833"
+       id="rect3319" />
+    <rect
+       x="215.35574"
+       y="738.80048"
+       width="423.32962"
+       height="241.29729"
+       id="rect3291" />
+    <rect
+       x="316.14999"
+       y="99.055962"
+       width="523.99115"
+       height="204.33371"
+       id="rect2851" />
+    <rect
+       x="196.783"
+       y="130.28828"
+       width="433.04531"
+       height="262.48117"
+       id="rect2762" />
+    <rect
+       x="180.31238"
+       y="145.032"
+       width="702.05762"
+       height="326.89218"
+       id="rect2599" />
+    <rect
+       x="159.21342"
+       y="136.42061"
+       width="352.31198"
+       height="251.49791"
+       id="rect2593" />
+    <color-profile
+       name="Apple-RGB"
+       xlink:href="file:///app/share/color/icc/colord/AppleRGB.icc"
+       id="color-profile3838" />
+    <rect
+       x="1604.1025"
+       y="124.91529"
+       width="4661.8975"
+       height="215.6181"
+       id="rect3339-0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="black">
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect3827"
+       width="1507.0453"
+       height="299.90564"
+       x="-1.5443263"
+       y="-1.500236" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.0699677,4.712349)"
+       id="text2760"
+       style="font-size:213.333px;white-space:pre;shape-inside:url(#rect2762);display:inline;fill:#ff2a2a"
+       inkscape:label="FM"><tspan
+         x="196.7832"
+         y="319.03876"
+         id="tspan3867">FM</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-11.941026,2.3505341)"
+       id="text3289"
+       style="font-size:213.333px;white-space:pre;shape-inside:url(#rect3291);display:inline;fill:#ff0000"
+       inkscape:label="AM"><tspan
+         x="215.35547"
+         y="927.55048"
+         id="tspan3869">AM</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke-width:0.295814"
+       id="rect3295"
+       width="1511.0669"
+       height="42.171211"
+       x="-3.448997"
+       y="126.9626"
+       inkscape:label="middle-white" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.4789679,5.7356154)"
+       id="text3317"
+       style="font-size:186.667px;white-space:pre;shape-inside:url(#rect3319);display:inline;fill:#ff0000"
+       inkscape:label="MHz"><tspan
+         x="5171.541"
+         y="280.64874"
+         id="tspan3871">MHz</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.19208,2.6133539)"
+       id="text3323"
+       style="font-size:186.667px;white-space:pre;shape-inside:url(#rect3325);display:inline;fill:#ff0000"
+       inkscape:label="KHz"><tspan
+         x="5162.6758"
+         y="943.096"
+         id="tspan3873">KHz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.2587px;white-space:pre;inline-size:1534.04;display:inline;fill:#000000;stroke-width:0.264583"
+       x="105.16561"
+       y="155.54999"
+       id="text3331"
+       transform="matrix(1.2573475,0,0,1,-16.961338,1.5298936)"
+       inkscape:label="scale"><tspan
+         x="105.16561"
+         y="155.54999"
+         id="tspan3875">SCALE············0·········1·········2·········3·········4·········5·········6·········7·········8·········9········10············SCALE</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23489238,0,0,0.49912316,-73.884538,-22.41942)"
+       id="text3337"
+       style="font-size:160px;white-space:pre;shape-inside:url(#rect3339);display:inline;fill:#ffffff"
+       inkscape:label="FM numbers"><tspan
+         x="1604.1016"
+         y="266.47852"
+         id="tspan3877">87.5         92          96          100          104        108</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.21481405,0,0,0.46900793,-43.55968,112.54505)"
+       id="text3337-6"
+       style="font-size:160px;white-space:pre;shape-inside:url(#rect3339-0);display:inline;fill:#ffffff"
+       inkscape:label="AM-numbers"><tspan
+         x="1604.1016"
+         y="266.47852"
+         id="tspan3879">522           800        1000         1250         1500       1710</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;fill:#ffffff;stroke-width:0.264583"
+       x="120.60894"
+       y="27.291529"
+       id="text3645"><tspan
+         sodipodi:role="line"
+         id="tspan3643"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="120.60894"
+         y="27.291529">FREQUENCY MODULATION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;fill:#ffffff;stroke-width:0.264583"
+       x="124.53469"
+       y="279.27798"
+       id="text3645-2"><tspan
+         sodipodi:role="line"
+         id="tspan3643-6"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="124.53469"
+         y="279.27798">AMPLITUDE MODULATION</tspan></text>
+  </g>
+  <metadata
+     id="metadata3824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
