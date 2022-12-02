@@ -1,2 +1,2 @@
 # CGcreate_assets
-Custom assets created by me and served up fresh! CC0. 
+Custom assets created by me. CC0. 
